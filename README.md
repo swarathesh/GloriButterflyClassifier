@@ -10,7 +10,8 @@ app works by searching for the pattern on the butterfly and recognising the type
 ​
 what this app does is it harnesses the power of machine learning in a smartphone .
 ​
-Quora Link: https://qr.ae/pNKtx0
+
+* Quora Link: https://qr.ae/pNKtx0
 
 
 
